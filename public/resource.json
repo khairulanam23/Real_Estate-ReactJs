@@ -1,0 +1,66 @@
+[
+    {
+        "estate_title": "Modern Apartment in Downtown",
+        "id": "001",
+        "segment_name": "Apartment",
+        "description": "Luxurious apartment located in the heart of the city, offering stunning views and modern amenities.",
+        "price": "$500,000",
+        "status": "sale",
+        "area": "1500 sq ft",
+        "location": "Downtown, City Center",
+        "facilities": [
+            "balcony",
+            "gym",
+            "parking"
+        ],
+        "property_img": "https://i.ibb.co/Fhq7J2g/Modern-Apartment-in-Downtown.jpg"
+    },
+    {
+        "estate_title": "Cozy Townhouse with Garden",
+        "id": "002",
+        "segment_name": "Townhouse",
+        "description": "Charming townhouse nestled in a serene neighborhood, featuring a private garden and spacious interiors.",
+        "price": "$350,000",
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "Suburban Area",
+        "facilities": [
+            "garden",
+            "fireplace",
+            "garage"
+        ],
+        "property_img": "https://i.ibb.co/HBQ1zn7/Cozy-Townhouse-with-Garden.jpg"
+    },
+    {
+        "estate_title": "Luxury Villa with Panoramic Views",
+        "id": "003",
+        "segment_name": "Villa",
+        "description": "Elegant villa perched on a hilltop, offering breathtaking panoramic views and lavish amenities.",
+        "price": "$1,200,000",
+        "status": "sale",
+        "area": "4000 sq ft",
+        "location": "Hillside Retreat",
+        "facilities": [
+            "infinity pool",
+            "home theater",
+            "wine cellar"
+        ],
+        "property_img": "https://i.ibb.co/HKTDNf6/Luxury-Villa-with-Panoramic-Views.jpg"
+    },
+    {
+        "estate_title": "Spacious Family Home",
+        "id": "004",
+        "segment_name": "House",
+        "description": "Spacious family home located in a friendly neighborhood, with ample space for relaxation and entertainment.",
+        "price": "$3000/month",
+        "status": "rent",
+        "area": "2500 sq ft",
+        "location": "Suburban Area",
+        "facilities": [
+            "backyard",
+            "study room",
+            "play area"
+        ],
+        "property_img": "https://i.ibb.co/dgHnqWf/Spacious-Family-Home.jpg"
+    }
+]
